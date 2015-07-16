@@ -49,8 +49,9 @@ You may use whatever technologies you see fit.
 USER STORIES
 ------------
 
-v1
+v1:
 
+```
 As a hipster coffeeshop employee (HCE)
 So that I can begin to calculate the order
 I would like to choose from the list of products
@@ -62,10 +63,11 @@ I would like the till to add all the products together
 As an HCE
 So that I can charge more accurately and comply with local tax laws
 I would like the till to calculate the tax on top of the bill
-
+```
 
 v2
 
+```
 As a customer at the coffeeshop with more money than necessary for what I'm ordering
 So that I'm not paying £10 for 1 cup of coffee
 I would like the till to accurately return the correct change
@@ -77,7 +79,7 @@ I would like to apply a 10% discount to any order over £50
 As an HCE
 So that I can shift more muffins
 I would like to discount them by 10%
-
+```
 
 
 
